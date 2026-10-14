@@ -6,7 +6,7 @@ st.set_page_config(page_title="Quản lý điểm sinh viên", page_icon="📚",
 
 # #1. Tạo dữ liệu 10 sinh viên
 du_lieu = {
-    "Ho_ten": ["An", "Bình", "Chi", "Dũng", "Hà", "Lan", "Minh", "Nam", "Phúc", "Trang"],
+    "Ho_ten": ["Hoài", "Vũ", "Trang", "Trâm", "Hà", "Vinh", "Nam", "Quang", "Tâm", "Cơ"],
     "Chuyen_can": [9.0, 8.5, 7.0, 9.5, 8.0, 6.5, 9.0, 7.5, 8.0, 9.5],
     "Giua_ky":    [8.0, 9.0, 6.5, 9.0, 7.5, 7.0, 8.5, 8.0, 8.5, 9.0],
     "Cuoi_ky":    [8.5, 8.8, 7.5, 9.2, 8.0, 6.8, 8.7, 7.8, 8.2, 9.5]
